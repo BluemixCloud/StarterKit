@@ -1,0 +1,11 @@
+{
+  "name": "cf-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cfenv": "^1.0.0",
+    "express": "^4.13.3"
+  }
+}

@@ -1,0 +1,6 @@
+name: dragon-1
+host: dragon-1
+domain: mybluemix.net
+memory: 256M
+disk_quota: 256M
+buildpack: nodejs_buildpack
